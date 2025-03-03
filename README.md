@@ -1,11 +1,4 @@
 # moving-objects-using-openCV
-SCIT, University of Wollongong
-1 of 3
-CSCI435/CSCI935
-Computer Vision: Algorithms and Systems
-Spring 2023
-Assignment Three (25%)
-Due Date: See Moodle
 Objectives
 • Design a Python program that extracts and counts moving objects, e.g. people, cars and others using
 background modelling and detects pedestrians using pre-trained MobileNet SSD object detector.
